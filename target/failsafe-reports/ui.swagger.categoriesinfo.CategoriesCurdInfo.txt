@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ui.swagger.categoriesinfo.CategoriesCurdInfo
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.274 sec - in ui.swagger.categoriesinfo.CategoriesCurdInfo

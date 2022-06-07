@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories curd info","This will create categories","SUCCESS","2022-06-06T23:27:38.837+01:00[Europe/London]","0.0","5.23"
+"Categories curd info","This will fatch single category","SUCCESS","2022-06-06T23:27:44.166+01:00[Europe/London]","0.0","0.13"
+"Categories curd info","This will update category","SUCCESS","2022-06-06T23:27:44.311+01:00[Europe/London]","0.0","0.15"
+"Categories curd info","This will delete category","SUCCESS","2022-06-06T23:27:44.460+01:00[Europe/London]","0.0","0.46"

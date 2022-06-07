@@ -1,0 +1,5 @@
+ui\swagger\categoriesinfo\CategoriesCurdInfo.class
+ui\swagger\prodcutinfo\ProductCurdTest.class
+ui\swagger\storeinfo\StoreCurdInfo.class
+ui\swagger\serviceinfo\ServiceCurdInfo.class
+ui\swagger\testbase\TestBase.class
